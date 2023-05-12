@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;
+    text-transform: capitalize;
+    /* font-family: 'Roboto', sans-serif; */
+}
+p{
+    color: white;
+    text-align: center;
+}
+img{
+    border: 5px solid white;
+    width: 100%;
+}
+div{
+    width: 50%;
+    margin-left: 25%;
+    /* text-align: center; */
+}
